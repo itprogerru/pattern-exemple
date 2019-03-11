@@ -1,3 +1,6 @@
+https://refactoring.guru/ru/design-patterns/
+
+
 #Одиночка (singleton)
 Когда мы используем один экземляр объекта везде
 ```javascript 
